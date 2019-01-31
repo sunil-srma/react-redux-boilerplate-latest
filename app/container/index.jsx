@@ -1,5 +1,5 @@
 import React from 'react';
-import UserList from '../UserList';
+import UserList from './UserList';
 import NavBar from '../component/NavBar';
 
 class Container extends React.Component {
