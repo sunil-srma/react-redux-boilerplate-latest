@@ -1,0 +1,336 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <symbol id="filter" viewBox="0 0 20 20">
+        <polygon id="XMLID_169_" style="stroke-miterlimit:10;" points="1.7,0.5 18.6,0.5 11.5,12.1 11.5,16.5 
+	7.7,19 7.7,12 "/>
+    </symbol>
+
+    <symbol id="listing" viewBox="0 0 25 25">
+        <rect id="XMLID_164_" x="1.5" y="1.6" stroke-miterlimit="10" width="16.9" height="3.3"/>
+        <rect id="XMLID_170_" x="1.5" y="8.6" stroke-miterlimit="10" width="16.9" height="3.3"/>
+        <rect id="XMLID_171_" x="1.5" y="15.6" stroke-miterlimit="10" width="16.9" height="3.3"/>
+    </symbol>
+
+    <symbol id="menu" viewBox="0 0 20 20">
+        <line id="XMLID_173_" stroke="#000000" stroke-miterlimit="10" x1="2" y1="2.5" x2="18" y2="2.5"/>
+        <line id="XMLID_174_" stroke="#000000" stroke-miterlimit="10" x1="2" y1="7.5" x2="18" y2="7.5"/>
+        <line id="XMLID_175_" stroke="#000000" stroke-miterlimit="10" x1="2" y1="12.5" x2="18" y2="12.5"/>
+        <line id="XMLID_176_" stroke="#000000" stroke-miterlimit="10" x1="2" y1="17.5" x2="18" y2="17.5"/>
+    </symbol>
+    
+    <symbol id="dashboard" viewBox="0 0 35 35">
+        <circle id="XMLID_12_" stroke-miterlimit="10" cx="17.6" cy="17.3" r="15.8"/>
+        <path id="XMLID_11_" stroke-miterlimit="10" d="M27.6,25.5c1.8-2.2,2.9-5.1,2.9-8.2c0-7.2-5.8-13-13-13s-13,5.8-13,13c0,3.1,1.1,5.9,2.9,8.1L27.6,25.5z"/>
+        <line id="XMLID_10_" stroke-miterlimit="10" x1="17.2" y1="4.3" x2="17.2" y2="6.8"/>
+        <line id="XMLID_9_" stroke-miterlimit="10" x1="10.2" y1="6.6" x2="11.5" y2="8.4"/>
+        <line id="XMLID_8_" stroke-miterlimit="10" x1="5.9" y1="11.6" x2="7.9" y2="12.5"/>
+        <path id="XMLID_7_" stroke-miterlimit="10" d="M4.5,18.7c0.1,0,2.3,0,2.3,0"/>
+        <line id="XMLID_6_"  stroke-miterlimit="10" x1="24.8" y1="6.6" x2="23.4" y2="8.4"/>
+        <line id="XMLID_5_" stroke-miterlimit="10" x1="29.2" y1="11.6" x2="26.9" y2="12.5"/>
+        <line id="XMLID_4_" stroke-miterlimit="10" x1="30.4" y1="18.6" x2="28" y2="18.6"/>
+        <polygon id="XMLID_3_" class="stroke-white" stroke-miterlimit="10" points="17.2,10.6 16,17.3 17.6,21 19,17.3 "/>
+    </symbol>
+    
+    <symbol id="mark-read" viewBox="0 0 20 20">
+        <polyline id="XMLID_1_" style="stroke-miterlimit:10;" points="0.9,11.4 6.8,16.8 19.1,2 "/>
+        <line id="XMLID_3_" style="stroke-miterlimit:10;" x1="10.3" y1="17" x2="18.8" y2="17"/>
+        <line id="XMLID_4_" style="stroke-miterlimit:10;" x1="12.5" y1="13.9" x2="18.8" y2="13.9"/>
+        <line id="XMLID_5_" style="stroke-miterlimit:10;" x1="14.3" y1="10.7" x2="18.8" y2="10.7"/>
+    </symbol>
+    
+    <symbol id="mark-right" viewBox="0 0 20 20">
+        <polyline id="XMLID_1_" style="stroke-miterlimit:10;" points="0.9,11.4 6.8,16.8 19.1,2 "/>
+    </symbol>
+    
+    <symbol id="mark-right" viewBox="0 0 20 20">
+        <circle id="XMLID_3_" style="stroke-miterlimit:10;" cx="10" cy="9.8" r="9.3"/>
+        <text id="XMLID_6_" transform="matrix(1 0 0 1 8.6668 13.5413)" style="font-family:'MyriadPro-Regular'; font-size:12px;">!       </text>
+    </symbol>
+    
+    <symbol id="cross" viewBox="0 0 20 20">
+        <line style="stroke-miterlimit:10;" x1="1.1" y1="1" x2="19.5" y2="19.3"/>
+        <line style="stroke-miterlimit:10;" x1="19.5" y1="1" x2="1.1" y2="19"/>
+    </symbol>
+    
+    <symbol id="notification" viewBox="0 0 20 20">
+        <g id="XMLID_31_">
+            <path id="XMLID_33_" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+                M16.4,13.7l0-6.4c0-3.8-3-6.9-6.4-6.9c-3.4,0-6.4,3.1-6.4,6.9V14L2,16.5h16.1L16.4,13.7z"/>
+            <path id="XMLID_34_" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+                M10.2,18.8c1.3,0,2.3-1.3,2.3-2.3H7.9C7.9,17.5,9,18.8,10.2,18.8z"/>
+            <circle id="XMLID_26_" style="stroke-miterlimit:10;" cx="10.1" cy="3.9" r="1.6"/>
+        </g>
+    </symbol>
+    
+    <symbol id="timeline" viewBox="0 0 20 20">
+        <line id="XMLID_2_" style="stroke-miterlimit:10;" x1="3.2" y1="0.3" x2="3.2" y2="19.8"/>
+        <line id="XMLID_11_" style="stroke-miterlimit:10;" x1="19" y1="3.3" x2="3.4" y2="3.3"/>
+        <line id="XMLID_10_" style="stroke-miterlimit:10;" x1="19" y1="10.3" x2="3.4" y2="10.3"/>
+        <line id="XMLID_9_" style="stroke-miterlimit:10;" x1="19" y1="17.3" x2="3.4" y2="17.3"/>
+        <circle id="XMLID_1_" style="stroke-miterlimit:10;" cx="3" cy="3.3" r="1.5"/>
+        <circle id="XMLID_4_" style="stroke-miterlimit:10;" cx="3" cy="10.3" r="1.5"/>
+        <circle id="XMLID_5_" style="stroke-miterlimit:10;" cx="3" cy="17.3" r="1.5"/>
+    </symbol>
+    
+    <symbol id="diary" viewBox="0 0 20 20">
+        <polygon style="stroke-miterlimit:10;" points="17.9,13.1 17.9,0.6 2.4,0.6 2.4,19.3 11.2,19.3 17.9,19.3 
+	"/>
+        <polyline style="stroke-miterlimit:10;" points="14.5,0.6 14.5,10.3 13.2,9 11.9,10.3 11.9,0.6 "/>
+        <line style="stroke-miterlimit:10;" x1="4.2" y1="3.9" x2="0.3" y2="3.9"/>
+        <line style="stroke-miterlimit:10;" x1="4.2" y1="7" x2="0.3" y2="7"/>
+        <line style="stroke-miterlimit:10;" x1="4.2" y1="10.1" x2="0.3" y2="10.1"/>
+        <line style="stroke-miterlimit:10;" x1="4.2" y1="13.1" x2="0.3" y2="13.1"/>
+        <line style="stroke-miterlimit:10;" x1="4.2" y1="16.2" x2="0.3" y2="16.2"/>
+    </symbol>
+    
+    <symbol id="logs" viewBox="0 0 20 20">
+        <g id="Layer_2" style="display:none;">
+	<polyline id="XMLID_1_" style="stroke-miterlimit:10;" points="17.1,2.4 18.9,2.4 
+		18.9,18.8 1.3,18.8 1.3,2.4 2.7,2.4 	"/>
+	
+		<line id="XMLID_2_" style="stroke-miterlimit:10;" x1="12.9" y1="2.4" x2="14.6" y2="2.4"/>
+	
+		<line id="XMLID_3_" style="stroke-miterlimit:10;" x1="9" y1="2.4" x2="10.6" y2="2.4"/>
+	
+		<line id="XMLID_4_" style="stroke-miterlimit:10;" x1="5" y1="2.4" x2="6.6" y2="2.4"/>
+	
+		<line id="XMLID_5_" style="stroke-miterlimit:10;" x1="3.8" y1="0.5" x2="3.8" y2="4.3"/>
+	
+		<line id="XMLID_6_" style="stroke-miterlimit:10;" x1="7.8" y1="0.5" x2="7.8" y2="4.3"/>
+	
+		<line id="XMLID_7_" style="stroke-miterlimit:10;" x1="11.8" y1="0.5" x2="11.8" y2="4.3"/>
+	
+		<line id="XMLID_8_" style="stroke-miterlimit:10;" x1="15.8" y1="0.5" x2="15.8" y2="4.3"/>
+	
+		<line id="XMLID_9_" style="stroke-miterlimit:10;" x1="3.5" y1="7.9" x2="16.6" y2="7.9"/>
+	
+		<line id="XMLID_10_" style="stroke-miterlimit:10;" x1="3.5" y1="11.9" x2="16.6" y2="11.9"/>
+	
+		<line id="XMLID_11_" style="stroke-miterlimit:10;" x1="3.5" y1="15.9" x2="16.6" y2="15.9"/>
+</g>
+<g id="Layer_3">
+	<polyline style="stroke-miterlimit:10;" points="13,18.5 1.3,18.5 1.3,3 14,3 14,11.4 	"/>
+	<polyline style="stroke-miterlimit:10;" points="4,2.8 4,1 16.6,1 16.6,11.6 	"/>
+	<circle id="XMLID_12_" style="stroke-miterlimit:10;" cx="15.3" cy="15.3" r="4.1"/>
+	<polyline id="XMLID_13_" style="stroke-miterlimit:10;" points="15.3,12.9 15.3,15.3 16.9,15.3 	"/>
+</g>
+    </symbol>
+    
+    <symbol id="notes" viewBox="0 0 20 20">
+        <path style="stroke-miterlimit:10;" d="M16.8,5v13c0,0.3-0.2,0.5-0.5,0.5h-12c-0.3,0-0.5-0.2-0.5-0.5V1.9
+	c0-0.3,0.2-0.5,0.5-0.5h8.8c0.1,0,0.3,0.1,0.4,0.1l3.2,3.1C16.8,4.7,16.8,4.8,16.8,5z"/>
+        <path style="stroke-miterlimit:10;" d="M12,1.4v3.5c0,0.3,0.2,0.5,0.5,0.5l4.3,0"/>
+        <g><g><path d="M6.9,10.7c2.1,0,4.1,0,6.2,0c0.6,0,0.6-1,0-1c-2.1,0-4.1,0-6.2,0C6.3,9.7,6.3,10.7,6.9,10.7L6.9,10.7z"/></g></g>
+        <g><g><path d="M6.9,6.7c0.5,0,1.1,0,1.6,0c0.6,0,0.6-1,0-1c-0.5,0-1.1,0-1.6,0C6.3,5.7,6.3,6.7,6.9,6.7L6.9,6.7z"/></g></g>
+        <g><g><path d="M6.9,14.7c2.1,0,4.1,0,6.2,0c0.6,0,0.6-1,0-1c-2.1,0-4.1,0-6.2,0C6.3,13.7,6.3,14.7,6.9,14.7L6.9,14.7z"/></g></g>
+    </symbol>
+    
+    <symbol id="attachment" viewBox="0 0 20 20">
+        <path id="XMLID_51_" style="stroke-miterlimit:10;" d="M13.2,8l-6.6,6.5c0,0-2.4,0-2.2-2.4l10.1-9.9
+	c0,0,4.4-0.3,4.7,4.5L7.5,18.6c0,0-6.7-0.1-6.8-6.5l9.7-9.9"/>
+    </symbol>
+    
+    <symbol id="communities" viewBox="0 0 20 20">
+        <circle style="stroke-width:0.75;stroke-miterlimit:10;" cx="3.2" cy="15.9" r="2.7"/>
+        <circle style="stroke-width:0.75;stroke-miterlimit:10;" cx="8.4" cy="3.3" r="2.7"/>
+        <circle style="stroke-width:0.75;stroke-miterlimit:10;" cx="16.9" cy="13.8" r="2.7"/>
+        <path style="stroke-miterlimit:10;" d="M2.3,11.9c0-0.3-0.1-0.6-0.1-1c0-2.1,0.9-3.9,2.4-5.2"/>
+        <path style="stroke-miterlimit:10;" d="M13.8,16.7c-1.2,0.8-2.6,1.2-4.2,1.2c-1,0-1.9-0.2-2.7-0.5"/>
+        <path style="stroke-miterlimit:10;" d="M12.4,4.4c2.3,0.9,4,2.9,4.5,5.4"/>
+    </symbol>
+    
+    <symbol id="activities" viewBox="0 0 20 20">
+		<path class="st0" d="M14.8,9"/>
+		<g>
+		<g>
+		<path d="M6,11.6c1.5-2.5,2.9-5.2,4.1-7.9c-0.3,0-0.6,0-0.9,0c1.5,2.7,3.2,5.2,5.1,7.6c0.4,0.5,1.1-0.2,0.7-0.7
+		c-1.9-2.3-3.5-4.8-4.9-7.4c-0.2-0.3-0.7-0.3-0.9,0C8,5.9,6.6,8.6,5.1,11.1C4.8,11.7,5.6,12.2,6,11.6L6,11.6z" stroke-width="0.5"/>
+		</g>
+		</g>
+		<g>
+		<g>
+		<path d="M7.4,9.8c1.8,0,3.5-0.1,5.2-0.3c0.6-0.1,0.6-1.1,0-1c-1.7,0.2-3.5,0.3-5.2,0.3C6.8,8.8,6.8,9.8,7.4,9.8L7.4,9.8z" stroke-width="0.5"/>
+		</g>
+		</g>
+		<path class="st1" d="M15.9,1.9c0-0.2-0.3-0.3-0.5-0.3H5.1c-0.2,0-0.4,0.1-0.5,0.3L1.7,13.7c-0.1,0.2,0.2,0.5,0.5,0.5h15.4
+		c0.3,0,0.5-0.3,0.5-0.6L15.9,1.9z"/>
+		<path class="st1" d="M2.3,14.5l-0.5,2.2c-0.1,0.2,0.2,0.5,0.5,0.5h15.4c0.3,0,0.5-0.3,0.5-0.6l-0.5-2.4"/>
+    </symbol>
+    
+    <symbol id="edit" viewBox="0 0 20 20">
+        <polyline id="XMLID_159_" style="stroke-miterlimit:10;" points="16.6,7.6 16.6,19.2 0.8,19.2 0.8,3.1 
+	10.8,3.1 "/>
+        <polygon id="XMLID_158_" style="stroke-miterlimit:10;" points="13.9,3 7.1,10.3 6.4,13.3 9,12.7 
+            16.2,5.2 "/>
+        <polygon id="XMLID_157_" style="stroke-miterlimit:10;" points="15,1.9 17.3,4 18.7,2.5 16.5,0.4 "/>
+    </symbol>
+    
+    <symbol id="reset" viewBox="0 0 20 20">
+        <path id="XMLID_3_" style="stroke-miterlimit:10;" d="M17.2,16c-2.1,2.7-5.7,4-9.2,3.1
+	c-4.6-1.3-7.3-6.1-6-10.7S8,1,12.7,2.3c1.7,0.5,3.2,1.5,4.3,2.7"/>
+        <path id="XMLID_1_" style="stroke-miterlimit:10;" d="M12.9,7.1c0.2,0,4.3-1.9,4.3-1.9L16.8,0"/>
+    </symbol>
+    
+    <symbol id="save" viewBox="0 0 20 20">
+        <line id="XMLID_4_" style="stroke-miterlimit:10;" x1="10" y1="0" x2="10" y2="13.8"/>
+        <polyline id="XMLID_2_" style="stroke-miterlimit:10;" points="7.1,11.1 10,14.5 12.5,11.1 "/>
+        <rect id="XMLID_5_" x="0.5" y="15.5" style="stroke-miterlimit:10;" width="19" height="4.1"/>
+    </symbol>
+    
+    <symbol id="delete" viewBox="0 0 20 20">
+        <rect id="XMLID_144_" x="3" y="4.5" style="stroke-linecap:round;stroke-miterlimit:10;" width="13" height="14.5"/>
+        <rect id="XMLID_146_" x="1.5" y="2.4" style="stroke-linecap:round;stroke-miterlimit:10;" width="16" height="2.1"/>
+        <rect id="XMLID_147_" x="4.5" y="0.8" style="stroke-linecap:round;stroke-miterlimit:10;" width="10.2" height="1.6"/>
+        <line id="XMLID_149_" style="stroke-linecap:round;stroke-miterlimit:10;" x1="6.5" y1="8" x2="6.5" y2="17"/>
+        <line id="XMLID_151_" style="stroke-linecap:round;stroke-miterlimit:10;" x1="9.5" y1="8" x2="9.5" y2="17"/>
+        <line id="XMLID_153_" style="stroke-linecap:round;stroke-miterlimit:10;" x1="12.5" y1="8" x2="12.5" y2="17"/>
+    </symbol>
+    
+    <symbol id="column" viewBox="0 0 20 20">
+        <rect x="0.7" y="0.6" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="5" height="18.8"/>
+        <rect x="7.5" y="0.6" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="5" height="18.8"/>
+        <rect x="14.3" y="0.6" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="5" height="18.8"/>
+    </symbol>
+    
+    <symbol id="fullscreen" viewBox="0 0 20 20">
+        <line id="XMLID_6_" style="stroke-miterlimit:10;" x1="0.6" y1="0.5" x2="7.2" y2="7.1"/>
+        <line id="XMLID_2_" style="stroke-miterlimit:10;" x1="12.5" y1="12.7" x2="19.1" y2="19.3"/>
+        <line id="XMLID_7_" style="stroke-miterlimit:10;" x1="19.1" y1="0.7" x2="12.5" y2="7.3"/>
+        <line id="XMLID_3_" style="stroke-miterlimit:10;" x1="7.2" y1="12.8" x2="0.6" y2="19.4"/>
+        <path id="XMLID_1_" style="stroke-miterlimit:10;" d="M16,19.6c0.1,0,3.5,0,3.5,0v-3.2"/>
+        <path id="XMLID_5_" style="stroke-miterlimit:10;" d="M3.7,19.7c-0.1,0-3.5,0-3.5,0v-3.2"/>
+        <path id="XMLID_9_" style="stroke-miterlimit:10;" d="M16,0.4c0.1,0,3.5,0,3.5,0v3.2"/>
+        <path id="XMLID_8_" style="stroke-miterlimit:10;" d="M3.7,0.2c-0.1,0-3.5,0-3.5,0v3.2"/>
+    </symbol>
+    
+    <symbol id="normalscreen" viewBox="0 0 20 20">
+        <line id="XMLID_6_" style="stroke-miterlimit:10;" x1="12.9" y1="13" x2="19.5" y2="19.6"/>
+        <line id="XMLID_2_" style="stroke-miterlimit:10;" x1="0.4" y1="0.4" x2="7" y2="7"/>
+        <line id="XMLID_7_" style="stroke-miterlimit:10;" x1="7" y1="13" x2="0.4" y2="19.6"/>
+        <line id="XMLID_3_" style="stroke-miterlimit:10;" x1="19.5" y1="0.4" x2="12.9" y2="7"/>
+        <path id="XMLID_1_" style="stroke-miterlimit:10;" d="M3.9,7.3c0.1,0,3.5,0,3.5,0V4.1"/>
+        <path id="XMLID_5_" style="stroke-miterlimit:10;" d="M16,7.3c-0.1,0-3.5,0-3.5,0V4.1"/>
+        <path id="XMLID_9_" style="stroke-miterlimit:10;" d="M3.9,12.7c0.1,0,3.5,0,3.5,0V16"/>
+        <path id="XMLID_8_" style="stroke-miterlimit:10;" d="M16,12.7c-0.1,0-3.5,0-3.5,0V16"/>
+    </symbol>
+    
+    <symbol id="export-excel" viewBox="0 0 20 20">
+        <path style="stroke-miterlimit:10;" d="M3.7,5.3v-4C3.7,1,4,0.8,4.2,0.8h10.6l3.9,4.1v13.4
+        c0,0.3-0.2,0.5-0.5,0.5h-14c-0.3,0-0.5-0.2-0.5-0.5v-3.4"/>
+        <line style="stroke-miterlimit:10;" x1="6.7" y1="4.3" x2="9.6" y2="4.3"/>
+        <line style="stroke-miterlimit:10;" x1="6.7" y1="6.3" x2="9.6" y2="6.3"/>
+        <line style="stroke-miterlimit:10;" x1="6.7" y1="8.3" x2="9.6" y2="8.3"/>
+        <line style="stroke-miterlimit:10;" x1="6.7" y1="10.3" x2="9.6" y2="10.3"/>
+        <line style="stroke-miterlimit:10;" x1="6.7" y1="12.3" x2="9.6" y2="12.3"/>
+        <line style="stroke-miterlimit:10;" x1="6.7" y1="14.3" x2="9.6" y2="14.3"/>
+        <line style="stroke-miterlimit:10;" x1="6.7" y1="16.3" x2="9.6" y2="16.3"/>
+        <line style="stroke-miterlimit:10;" x1="10.7" y1="4.3" x2="13.6" y2="4.3"/>
+        <line style="stroke-miterlimit:10;" x1="10.7" y1="6.3" x2="13.6" y2="6.3"/>
+        <line style="stroke-miterlimit:10;" x1="10.7" y1="8.3" x2="13.6" y2="8.3"/>
+        <line style="stroke-miterlimit:10;" x1="10.7" y1="10.3" x2="13.6" y2="10.3"/>
+        <line style="stroke-miterlimit:10;" x1="10.7" y1="12.3" x2="13.6" y2="12.3"/>
+        <line style="stroke-miterlimit:10;" x1="10.7" y1="14.3" x2="13.6" y2="14.3"/>
+        <line style="stroke-miterlimit:10;" x1="10.7" y1="16.3" x2="13.6" y2="16.3"/>
+        <line style="stroke-miterlimit:10;" x1="14.7" y1="8.3" x2="17.6" y2="8.3"/>
+        <line style="stroke-miterlimit:10;" x1="14.7" y1="10.3" x2="17.6" y2="10.3"/>
+        <line style="stroke-miterlimit:10;" x1="14.7" y1="12.3" x2="17.6" y2="12.3"/>
+        <line style="stroke-miterlimit:10;" x1="14.7" y1="14.3" x2="17.6" y2="14.3"/>
+        <line style="stroke-miterlimit:10;" x1="14.7" y1="16.3" x2="17.6" y2="16.3"/>
+        <text transform="matrix(1 0 0 1 0 13.4199)" style="font-family:'Raleway-SemiBold'; font-size:9.4707px;">X</text>
+        <polyline style="stroke-miterlimit:10;" points="14.5,1 14.5,5.5 19,5.5 "/>
+    </symbol>
+    
+    <symbol id="arrow-down" viewBox="0 0 20 20">
+        <polyline id="XMLID_1_" style="stroke-miterlimit:10;" points="0.4,4.4 10.1,14.9 19.8,4.2 "/>
+    </symbol>
+    
+    <symbol id="arrow-up" viewBox="0 0 20 20">
+        <polyline id="XMLID_1_" style="stroke-miterlimit:10;" points="19.8,14.7 10.1,4.2 0.4,14.9 "/>
+    </symbol>
+    
+    <symbol id="descending" viewBox="0 0 20 20">
+        <g>
+            <path d="M14.3,16.2c-0.2,0-0.5,0.2-0.5,0.4l-0.7,2h-1l2.6-7.5h1.2l2.6,7.5h-1l-0.7-2c-0.1-0.2-0.3-0.4-0.5-0.4H14.3z M15.5,15.5
+                c0.4,0,0.6-0.4,0.5-0.7l-0.5-1.4c-0.2-0.5-0.3-0.9-0.4-1.4h0c-0.1,0.4-0.2,0.9-0.4,1.4l-0.5,1.4c-0.1,0.4,0.1,0.7,0.5,0.7H15.5z"/>
+            <path d="M12.1,8.4l4.2-6.1v0h-3.8V1.4h5.1V2l-4.1,6.1v0h4.2V9h-5.5V8.4z"/>
+        </g>
+        <g id="Layer_2">
+        </g>
+        <line style="stroke-miterlimit:10;" x1="5.4" y1="0.6" x2="5.4" y2="18.7"/>
+        <polyline style="stroke-miterlimit:10;" points="8,16.1 5.4,19 2.4,16.1 "/>
+    </symbol>
+    
+    <symbol id="ascending" viewBox="0 0 20 20">
+        <g>
+		<path d="M14.3,6.6c-0.2,0-0.5,0.2-0.5,0.4l-0.7,2h-1l2.6-7.5h1.2L18.4,9h-1l-0.7-2c-0.1-0.2-0.3-0.4-0.5-0.4H14.3z M15.5,5.9
+			c0.4,0,0.6-0.4,0.5-0.7l-0.5-1.4c-0.2-0.5-0.3-0.9-0.4-1.4h0c-0.1,0.4-0.2,0.9-0.4,1.4l-0.5,1.4c-0.1,0.4,0.1,0.7,0.5,0.7H15.5z"/>
+		<path d="M12.1,18l4.2-6.1v0h-3.8v-0.8h5.1v0.6l-4.1,6.1v0h4.2v0.8h-5.5V18z"/>
+		</g>
+		<g id="Layer_2">
+		</g>
+		<line style="stroke-miterlimit:10;" x1="5.4" y1="0.6" x2="5.4" y2="18.7"/>
+		<polyline style="stroke-miterlimit:10;" points="8,16.1 5.4,19 2.4,16.1 "/>
+    </symbol>
+	
+	<symbol id="associatedworkkard" viewBox="0 0 20 20">
+		<path class="st0" d="M8,6.8V2.1c0-0.5,0.4-0.9,0.9-0.9h9.9c0.5,0,0.9,0.4,0.9,0.9v9.4c0,0.5-0.4,0.9-0.9,0.9h-5"/>
+		<path class="st0" d="M12.1,13.9v4.6c0,0.5-0.4,0.9-0.9,0.9H1.4c-0.5,0-0.9-0.4-0.9-0.9V9.3c0-0.5,0.4-0.9,0.9-0.9h5.1"/>
+		<path class="st0" d="M14.7,8.1l-1.4,1.4c-0.7,0.7-1.8,0.7-2.5,0l-0.2-0.2c-0.7-0.7-0.7-1.8,0-2.5l1.4-1.4c0.7-0.7,1.8-0.7,2.5,0
+			l0.2,0.2C15.4,6.3,15.4,7.5,14.7,8.1z"/>
+		<path class="st0" d="M8.7,14.1l-1.4,1.4c-0.7,0.7-1.8,0.7-2.5,0l-0.2-0.2c-0.7-0.7-0.7-1.8,0-2.5l1.4-1.4c0.7-0.7,1.8-0.7,2.5,0
+			l0.2,0.2C9.4,12.3,9.4,13.5,8.7,14.1z"/>
+		<line class="st0" x1="6.7" y1="13.5" x2="12.7" y2="7.5"/>		
+	</symbol>
+	
+	<symbol id="associatedaparties" viewBox="0 0 20 20">
+		<path class="st0" d="M17.5,19.1h-15c-0.7,0-1.3-0.6-1.3-1.3V3.7c0-0.7,0.6-1.3,1.3-1.3h15c0.7,0,1.3,0.6,1.3,1.3v14.1
+		C18.8,18.5,18.2,19.1,17.5,19.1z"/>
+		<line class="st0" x1="4.4" y1="0.8" x2="4.4" y2="3.8"/>
+		<line class="st0" x1="8.2" y1="0.8" x2="8.2" y2="3.8"/>
+		<line class="st0" x1="12.1" y1="0.8" x2="12.1" y2="3.8"/>
+		<line class="st0" x1="15.9" y1="0.8" x2="15.9" y2="3.8"/>
+		<circle class="st0" cx="10.2" cy="7.4" r="1.7"/>
+		<path class="st0" d="M13.4,16.4H7.1c-0.5,0-0.9-0.4-0.9-0.9v-0.6c0-2.2,1.8-4.1,4.1-4.1h0c2.2,0,4.1,1.8,4.1,4.1v0.6
+			C14.3,16,13.9,16.4,13.4,16.4z"/>
+	</symbol>
+	
+	<symbol id="organization" viewBox="0 0 20 20">
+		<circle class="st0" cx="3.5" cy="6.1" r="1.7"/>
+		<circle class="st0" cx="16.6" cy="6.1" r="1.7"/>
+		<circle class="st0" cx="9.9" cy="3.5" r="1.7"/>
+		<path class="st0" d="M17.3,14.9c-1.4,1.9-4.2,3.3-7.4,3.3c-3.3,0-6.1-1.3-7.4-3.3"/>
+		<path class="st0" d="M11.8,10.5H8.2c-0.4,0-0.6-0.3-0.6-0.6V9.2c0-1.4,1.1-2.5,2.5-2.5h0c1.4,0,2.5,1.1,2.5,2.5v0.7
+			C12.5,10.2,12.2,10.5,11.8,10.5z"/>
+		<path class="st0" d="M18.4,13.2h-3.7c-0.4,0-0.6-0.3-0.6-0.6v-0.7c0-1.4,1.1-2.5,2.5-2.5h0c1.4,0,2.5,1.1,2.5,2.5v0.7
+			C19,12.9,18.7,13.2,18.4,13.2z"/>
+		<path class="st0" d="M5.3,13.2H1.6c-0.4,0-0.6-0.3-0.6-0.6v-0.7c0-1.4,1.1-2.5,2.5-2.5h0c1.4,0,2.5,1.1,2.5,2.5v0.7
+			C5.9,12.9,5.6,13.2,5.3,13.2z"/>
+	</symbol>
+	
+	<symbol id="nav-left" viewBox="0 0 20 20">
+		<rect x="0.9" y="3.1" class="st0" width="18.3" height="13.5"/>
+		<line class="st0" x1="0.9" y1="6.2" x2="19.4" y2="6.2"/>
+		<line class="st0" x1="3.9" y1="6.2" x2="3.9" y2="16.6"/>
+		<line class="st0" x1="10" y1="6" x2="10" y2="16.8"/>
+	</symbol>
+	
+	<symbol id="nav-top" viewBox="0 0 20 20">
+		<rect x="0.9" y="3.1" class="st0" width="18.3" height="13.5"/>
+		<line class="st0" x1="0.9" y1="6.2" x2="19.4" y2="6.2"/>
+		<line class="st0" x1="0.9" y1="8.2" x2="19.4" y2="8.2"/>
+		<line class="st0" x1="3.9" y1="8.4" x2="3.9" y2="16.6"/>
+	</symbol>
+	
+	<symbol id="slide-detail" viewBox="0 0 16 16">
+      <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="slide_right_view" transform="translate(0.000000, -167.000000)" stroke="#FFFFFF">
+            <g id="Group-2" transform="translate(0.000000, 167.000000)">
+                <g id="Group" transform="translate(8.000000, 7.555556) scale(-1, 1) translate(-8.000000, -7.555556) ">
+                    <path d="M1.33333333,1.22222222 L15.3343174,1.22222222" id="Path-2"></path>
+                    <path d="M5.33333333,7.55555556 L15.3343174,7.55555556" id="Path-2-Copy"></path>
+                    <path d="M4,13.7777778 L15.3343174,13.7777778" id="Path-2-Copy-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+  </symbol>
+</svg>
